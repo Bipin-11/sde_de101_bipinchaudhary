@@ -1,0 +1,17 @@
+<h1>Assignment</h1>
+
+<p>Imagine that you are hired to enable data analytics; where would you start? How would you go about gathering requirements? Hint: Think backward from what the business may need.</p>
+
+Define goals: Understand business objectives and KPIs.
+
+Gather requirements: Interview stakeholders to determine their data needs and desired insights.
+
+Assess Current Data: Inventory existing data sources and evaluate data quality.
+
+Specify Data Needs: Identify necessary data types, sources, and transformations.
+
+Plan infrastructure: Choose tools for data storage, processing, and visualization; design the architecture.
+
+Implement and test: Build and test data solutions; validate with users.
+
+Deploy and monitor: Roll out solutions, monitor performance, and optimize as needed.
